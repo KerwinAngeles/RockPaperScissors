@@ -26,5 +26,7 @@
 - test what your function returns by using console.log().
 
 
+![image](https://github.com/KerwinAngeles/RockPaperScissors/assets/133922161/3c29c76c-33be-4f2d-8902-48ded27e7d29)
+
 
 
